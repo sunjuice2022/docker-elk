@@ -15,7 +15,7 @@ elasticsearch.password: ${KIBANA_SYSTEM_PASSWORD}
 ## Fleet
 ## https://www.elastic.co/guide/en/kibana/current/fleet-settings-kb.html
 #
-xpack.fleet.agents.fleet_server.hosts: [ 'https://14.201.57.62:8220' ]
+xpack.fleet.agents.fleet_server.hosts: [ 'https://20.213.132.169:8220' ]
 xpack.fleet.agents.elasticsearch.hosts: [ 'http://elasticsearch:9200' ]
 
 xpack.fleet.packages:
